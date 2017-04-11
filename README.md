@@ -1,5 +1,7 @@
 # cut-hex
 
+[![Build Status](https://travis-ci.org/sydev/cut-hex.svg?branch=master)](https://travis-ci.org/sydev/cut-hex)
+
 Cut the leading '#' from a hex color code, if presented
 
 ## Table of contents
